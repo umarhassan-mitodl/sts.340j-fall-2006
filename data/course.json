@@ -28,6 +28,7 @@
     "website": "sts-340j-introduction-to-the-history-of-technology-fall-2006"
   },
   "course_title": "Introduction to the History of Technology",
+  "hide_download": true,
   "course_description": "This course is an introduction to the consideration of technology as the outcome of particular technical, historical, cultural, and political efforts, especially in the United States during the 19th and 20th centuries. Topics include industrialization of production and consumption, development of engineering professions, the emergence of management and its role in shaping technological forms, the technological construction of gender roles, and the relationship between humans and machines.\n",
   "department_numbers": [
     "STS",
@@ -39,6 +40,7 @@
     "content": "05dee3bb-8712-8c57-759b-24080c43932b",
     "website": "sts-340j-introduction-to-the-history-of-technology-fall-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
