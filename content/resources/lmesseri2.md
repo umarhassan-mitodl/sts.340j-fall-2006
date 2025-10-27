@@ -4,8 +4,6 @@ description: Sample student paper.
 file: /courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/db344af92041e5e5d19ee53beac641ed_lmesseri2.pdf
 file_size: 20773
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
